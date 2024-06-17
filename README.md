@@ -1,5 +1,5 @@
-<h1 align="center">Hi Devs,
-<img src="https://github.com/harshkhavale/harshkhavale/assets/91471322/43fcd3a5-baa2-4203-b91c-ac7e25dd8e89" width="20" /> Harsh here!</h1>
+<h1 align="center">Hi Devs
+<img src="https://github.com/harshkhavale/harshkhavale/assets/91471322/43fcd3a5-baa2-4203-b91c-ac7e25dd8e89" width="30" />, HARSH here!</h1>
 <h3 align="center">Empowering Digital Experiences | Full Stack Developer | React.js | Android | Next.js | Let's Build Together!</h3>
 <img src="https://github.com/harshkhavale/harshkhavale/assets/91471322/66464b55-5309-46f6-a378-8723ac25d8aa"/>
 <h3 align="center">Skill-Box</h3>
