@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning **AI/ML**
 
-👨‍💻 You can visit at my [portfolio](https://devfolio-brown.vercel.app/)
+👨‍💻 You can visit at my [portfolio](https://harsh-khavale.vercel.app/)
 
 💬 Ask me about **MERN , Android , all web frameworks**
 
