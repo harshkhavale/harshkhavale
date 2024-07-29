@@ -12,7 +12,6 @@
 <hr>
 
 
-🔭 I’m currently working at <img width="20" src="https://github.com/harshkhavale/harshkhavale/assets/91471322/7808e61d-305c-402a-8ea6-e7c0ddfdea3a"/> **ATG(Across The Globe)** 
 
 🌱 I’m currently learning **AI/ML**
 
